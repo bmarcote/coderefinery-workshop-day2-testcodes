@@ -1,2 +1,2 @@
-def turtle_speaks():
+def turtle_speak():
     print('... ...')
